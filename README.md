@@ -190,4 +190,4 @@ print("Variance:", var)
 # Results:
 The Huffman and Shannon-Fano of the given statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using python are verified.
 
-](https://github.com/varnika0412/IdealSampling)
+
